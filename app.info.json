@@ -8,7 +8,7 @@
   "rh_cloud_services_dependencies": ["UNMET DEPENDENCY @redhat-cloud-services/frontend-components-notifications@^3.2.10","UNMET DEPENDENCY @redhat-cloud-services/frontend-components-utilities@^3.2.25","UNMET DEPENDENCY @redhat-cloud-services/frontend-components@^3.9.11"],
   "travis": {
     "event_type": "",
-    "build_number": "3225027922",
+    "build_number": "3225036050",
     "build_web_url": ""
   }
 }
