@@ -1,11 +1,11 @@
 {
     "provisioning": {
         "entry": [
-            "/beta/apps/provisioning/provisioning.1665474448879.dac239e491bc5355fc0b.js"
+            "/apps/provisioning/provisioning.1665484079437.1c4f9b210748edf3f4ee.js"
         ],
         "modules": [
-            "/beta/apps/provisioning/js/528.1665474448911.dac239e491bc5355fc0b.js",
-            "/beta/apps/provisioning/css/528.71716dcb2e00d096fd00.css"
+            "/apps/provisioning/js/528.1665484079485.1c4f9b210748edf3f4ee.js",
+            "/apps/provisioning/css/528.71716dcb2e00d096fd00.css"
         ]
     }
 }
