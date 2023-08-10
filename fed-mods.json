@@ -1,12 +1,11 @@
 {
-    "provisioning": {
-        "entry": [
-            "/beta/apps/provisioning/provisioning.a50d2680ccfb44ce24a3.js"
-        ],
-        "modules": [
-            "/beta/apps/provisioning/js/12.a50d2680ccfb44ce24a3.js",
-            "/beta/apps/provisioning/css/12.eee23abf614df258501c.css",
-            "/beta/apps/provisioning/css/448.b928648857ef1ced280f.css"
-        ]
-    }
+  "name": "provisioning",
+  "version": "1.0.0",
+  "extensions": [],
+  "registrationMethod": "callback",
+  "baseURL": "/beta/apps/provisioning/",
+  "loadScripts": [
+    "provisioning.55e0e4c14b7ad8422e60.js"
+  ],
+  "buildHash": "55e0e4c14b7ad8422e608b1f8f449c00"
 }
