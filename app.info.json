@@ -1,14 +1,14 @@
 {
   "app_name": "provisioning",
   "node_version": ">=16.0.0",
-  "src_hash": "ee9f948d50138514fe3933d922d3462e466a0650",
+  "src_hash": "ddf305f9a0ad1876fe635cc108df9bf6f7a90db9",
   "src_tag": "",
   "src_branch": "main",
-  "patternfly_dependencies": ["UNMET DEPENDENCY @patternfly/react-core@4.276.8"],
-  "rh_cloud_services_dependencies": ["UNMET DEPENDENCY @redhat-cloud-services/frontend-components-notifications@^3.2.14","UNMET DEPENDENCY @redhat-cloud-services/frontend-components-utilities@^3.5.0","UNMET DEPENDENCY @redhat-cloud-services/frontend-components@^3.9.35"],
+  "patternfly_dependencies": ["UNMET DEPENDENCY @patternfly/react-core@4.276.11"],
+  "rh_cloud_services_dependencies": ["UNMET DEPENDENCY @redhat-cloud-services/frontend-components-utilities@3.7.4","UNMET DEPENDENCY @redhat-cloud-services/frontend-components@3.11.2"],
   "travis": {
     "event_type": "",
-    "build_number": "5808507877",
+    "build_number": "5819075276",
     "build_web_url": ""
   }
 }
