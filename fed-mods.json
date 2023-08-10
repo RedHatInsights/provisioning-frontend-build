@@ -1,16 +1,11 @@
 {
-    "provisioning": {
-        "entry": [
-            "/apps/provisioning/provisioning.53d9aa1d4e08dbefa835.js"
-        ],
-        "modules": [
-            "/apps/provisioning/js/412.53d9aa1d4e08dbefa835.js",
-            "/apps/provisioning/css/412.88da8279442498af166b.css",
-            "/apps/provisioning/js/267.53d9aa1d4e08dbefa835.js",
-            "/apps/provisioning/css/267.b928648857ef1ced280f.css",
-            "/apps/provisioning/js/918.53d9aa1d4e08dbefa835.js",
-            "/apps/provisioning/js/561.53d9aa1d4e08dbefa835.js",
-            "/apps/provisioning/js/996.53d9aa1d4e08dbefa835.js"
-        ]
-    }
+  "name": "provisioning",
+  "version": "1.0.0",
+  "extensions": [],
+  "registrationMethod": "callback",
+  "baseURL": "/apps/provisioning/",
+  "loadScripts": [
+    "provisioning.a178e290866999e8788f.js"
+  ],
+  "buildHash": "a178e290866999e8788fea9c052a93be"
 }
