@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "extensions": [],
   "registrationMethod": "callback",
-  "baseURL": "/beta/apps/provisioning/",
+  "baseURL": "/apps/provisioning/",
   "loadScripts": [
-    "provisioning.74f7cd889792f40bf21e.js"
+    "provisioning.d9b20f7247fa0d1ff142.js"
   ],
-  "buildHash": "74f7cd889792f40bf21e6a83f38e98dc"
+  "buildHash": "d9b20f7247fa0d1ff142a5f826872b18"
 }
