@@ -5,7 +5,7 @@
   "registrationMethod": "callback",
   "baseURL": "/apps/provisioning/",
   "loadScripts": [
-    "provisioning.32f0aeaf547dab828717.js"
+    "provisioning.a82a671cec98876cb390.js"
   ],
-  "buildHash": "32f0aeaf547dab82871724d8853fc526"
+  "buildHash": "a82a671cec98876cb390f2edef422f60"
 }
